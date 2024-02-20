@@ -16,8 +16,4 @@ RGB depth image of lidar projected on left back camera:
 Grayscale depth image of lidar projected on left back camera:
  ![Metrics](images/Grayscale_015-2018-07-24-11-22-45+0800__CAM_BACK_LEFT__1532402930147423.jpg)
  
-Note: python_sdk folder is the [nuscenes-devkit](https://github.com/nutonomy/nuscenes-devkit) with some extra functions to transform the Lidar point cloud to depth image
-
-```bash
---nuscenes/python_sdk 
-``` 
+Note: nuscenes/python_sdk folder is the [nuscenes-devkit](https://github.com/nutonomy/nuscenes-devkit) with some extra functions to transform the Lidar point cloud to depth image.
