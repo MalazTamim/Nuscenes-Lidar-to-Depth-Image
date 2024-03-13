@@ -1,4 +1,4 @@
-﻿# Nuscenes-Lidar-to-Depth-Image
+﻿# Nuscenes-Lidar-to-Depth-Image - Malaz Tamim
 This repository contains the code for transforming lidar point cloud provided by nuscenes dataset to depth images. Some part of the code are borrowed from [nuscenes-devkit](https://github.com/nutonomy/nuscenes-devkit).
 
 
